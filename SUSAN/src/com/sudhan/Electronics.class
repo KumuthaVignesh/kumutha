@@ -1,0 +1,12 @@
+Tag:Java</tags>
+              </children>
+              <children xsi:type="advanced:Placeholder" xmi:id="_Is4tGaoAEemmmOGwTC9lGA" elementId="org.eclipse.jdt.ui.PackagesView" toBeRendered="false" ref="_Is7Jg6oAEemmmOGwTC9lGA" closeable="true">
+                <tags>View</tags>
+                <tags>categoryTag:Java Browsing</tags>
+              </children>
+            </children>
+            <children xsi:type="basic:PartSashContainer" xmi:id="_Is4tGqoAEemmmOGwTC9lGA" containerData="6634">
+              <children xsi:type="basic:PartSashContainer" xmi:id="_Is4tG6oAEemmmOGwTC9lGA" containerData="7000" horizontal="true">
+                <children xsi:type="advanced:Placeholder" xmi:id="_Is4tHKoAEemmmOGwTC9lGA" elementId="org.eclipse.ui.editorss" containerData="7000" ref="_Is6ioqoAEemmmOGwTC9lGA"/>
+                <children xsi:type="basic:PartStack" xmi:id="_Is4tHaoAEemmmOGwTC9lGA" elementId="topRight" containerData="3000" selectedElement="_Is4tHqoAEemmmOGwTC9lGA">
+                  <children xsi:type="advanced:Placeholder" xmi:id="_Is4tHqoAEemmmOGwTC9lGA" elementId="org.eclipse.ui.views.ContentOutline" ref=
