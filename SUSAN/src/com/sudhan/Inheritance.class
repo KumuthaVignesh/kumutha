@@ -1,9 +1,0 @@
-esystem.local.LocalFile.move(LocalFile.java:392)
-	at org.eclipse.core.internal.localstore.FileSystemResourceManager.move(FileSystemResourceManager.java:813)
-	at org.eclipse.core.internal.resources.ResourceTree.moveProjectContent(ResourceTree.java:763)
-	at org.eclipse.core.internal.resources.ResourceTree.standardMoveProject(ResourceTree.java:1086)
-	at org.eclipse.core.internal.resources.Project.move(Project.java:988)
-	at org.eclipse.ui.ide.undo.MoveProjectOperation.moveProject(MoveProjectOperation.java:142)
-	at org.eclipse.ui.ide.undo.MoveProjectOperation.doExecute(MoveProjectOperation.java:117)
-	at org.eclipse.ui.ide.undo.AbstractWorkspaceOperation.lambda$0(AbstractWorkspaceOperation.java:197)
-	at org.eclipse.core.internal.resources.Worksp
